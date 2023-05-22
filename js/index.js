@@ -49,14 +49,14 @@ a < b
 //TASK 1 ENDS HERE!
 
 
-// TASK 2 STARTS HERE
+// // TASK 2 STARTS HERE
 
-let first_name = "Niharika";
-let last_name = "Sehgal";
-let email = "sehg0020@algonquinlive.com";
-let output;
+// let first_name = "Niharika";
+// let last_name = "Sehgal";
+// let email = "sehg0020@algonquinlive.com";
+// let output;
 
-output = "My name is " + first_name + " " + last_name + ". You can contact me at " + email + ".";
-alert(output);
+// output = "My name is " + first_name + " " + last_name + ". You can contact me at " + email + ".";
+// alert(output);
 
-//TASK 2 ENDS HERE!
+// //TASK 2 ENDS HERE!
